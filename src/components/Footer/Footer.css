@@ -1,0 +1,43 @@
+
+
+.social-icons {
+    margin-top: 30px;
+
+}
+
+.social-icons a {
+    text-decoration: none;
+    font-size: 40px;
+    margin-right: 15px;
+    color: dodgerblue;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+
+.fa-github {
+    font-size: 40px;
+}
+
+.fa-github a:hover {
+    color: #0fc1c1;
+    transform: translateY(-5px);
+}
+
+.social-icons a:hover {
+    color: #ff004f;
+    transform: translateY(-5px);
+}
+.list{
+    cursor: pointer;
+}
+.foot {
+    /* background-color: #f8f9fa; */
+    color: #6c757d;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 1rem;
+    position: absolute;
+    /* bottom: 0; */
+    width: 100%;
+  }
+  
